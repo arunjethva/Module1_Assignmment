@@ -1,0 +1,108 @@
+Q1 -What is	software? What issoftware engineering?
+ANS-Software engineering has two parts: software and engineering. Software is a collection of codes, documents, and triggers that does a specific job and fills a 
+    specific requirement. Engineering is the development of products using best practices, principles, and methods.
+
+Q2-. Explain types ofsoftware
+ANS-1)Application software. The most frequently used software is application software, which is a computer software package that performs a specific function for a user or,
+   in some cases, for another application. An application can be self-contained, or it can be a group of programs that run the application for the user. Examples of modern 
+   applications include office suites, graphics software, databases, database management programs, web browsers, word processors, software development tools, image editors and communication platforms.
+
+   2)System software. These software programs are designed to run a computer's application programs and hardware. System software coordinates the activities and functions of the hardware and software.
+   In addition, it controls the operations of the computer hardware and provides an environment or platform for all the other types of software to work in. An operating system (OS) is the best example of system software;
+   it manages all the other computer programs. Other examples of system software include firmware, computer language translators and system utilities.
+
+   3)Driver software. Also known as device drivers, this software is often considered a type of system software. Device drivers control the devices and peripherals connected to a computer, helping them perform their specific tasks.
+   Every device that's connected to a computer needs at least one device driver to function. Examples include software that comes with any nonstandard hardware, including special game controllers, as well as the software that enables standard hardware,
+   such as USB storage devices, keyboards, headphones and printers.
+
+   4)Middleware. The term middleware describes software that mediates between application and system software or between two different kinds of application software. For example, middleware lets Microsoft Windows talk to Excel and Word.
+    It's used to send a remote work request from an application in a computer that has one kind of OS to an application in a computer with a different OS. It also lets newer applications work with legacy ones.
+
+   5)Programming software. Computer programmers use programming software to write code. Programming software and programming languages, such as Java or Python, let developers develop, write, test and debug other software programs.
+   Examples of programming software include assemblers, compilers, debuggers and interpreters.
+
+Q3 -What is SDLC? Explain each phase of SDLC
+ANS-The Software Development Life Cycle (SDLC) is a process used by software development organizations to plan, design, develop, test, deploy, and maintain software applications.
+
+
+SDLC (Software Development Life Cycle) is used in Every Software Development Company because it is the root of the Development Cycle, if that model would not exist in the world, firstly no software can build secondly if any how it would be made, it’s not going to succeed it has no use, because of no maintenance, but Luckily SDLC model exist in Tech world But why we need it Actually!
+
+There are several reasons why organizations use the Software Development Life Cycle (SDLC) when developing software applications:
+
+To provide a structured and organized approach to software development: The SDLC provides a framework for managing the software development process, which helps to ensure that all necessary steps are taken and that the final product meets the requirements.
+
+1.To ensure that the software is of high quality: The SDLC includes testing and quality assurance phases, which help to ensure that the software is free of bugs and that it meets the requirements.
+
+2.To manage risks and costs: The SDLC helps organizations to identify and manage risks early in the development process, which can help to reduce costs and minimize the impact of any issues that do arise.
+
+3.To improve communication and collaboration: The SDLC helps to ensure that all stakeholders, including customers, end-users, and developers, are involved in the development process and that their needs are taken into account.
+
+4.To improve efficiency and productivity: The SDLC helps organizations to optimize the use of resources and to streamline the development process, which can improve efficiency and productivity.
+
+5.To increase the likelihood of a successful project outcome: Following a well-defined SDLC process can greatly increase the chances of success of the project, as the process guides the team towards the goal in a systematic and efficient way.
+
+Overall, the SDLC is a valuable tool for organizations to use when developing software applications, as it helps to ensure that the final product is of high quality, meets the requirements, and is delivered on time and within budget.
+
+ The SDLC typically includes the following phases:
+
+ 
+
+1. Requirements gathering and analysis: This phase involves gathering information about the software requirements from stakeholders, such as customers, end-users, and business analysts.
+
+2. Design: In this phase, the software design is created, which includes the overall architecture of the software, data structures, and interfaces. It has two steps:
+
+High-level design (HLD): It gives the architecture of software products.
+Low-level design (LLD): It describes how each and every feature in the product should work and every component.
+3. Implementation or coding: The design is then implemented in code, usually in several iterations, and this phase is also called as Development.
+
+things you need to know about this phase:
+
+This is the longest phase in SDLC model.
+This phase consists of Front end + Middleware + Back-end.
+In front-end: Development of coding is done even SEO settings are done.
+In Middleware: They connect both the front end and back end.
+In the back-end: A database is created.
+4. Testing: The software is thoroughly tested to ensure that it meets the requirements and works correctly.
+
+5. Deployment: After successful testing, The software is deployed to a production environment and made available to end-users.
+
+6. Maintenance: This phase includes ongoing support, bug fixes, and updates to the software.
+
+Q4 -What is DFD? Create a DFD diagram on Flipkart?
+
+ANS-There are different methodologies that organizations can use to implement the SDLC, such as Waterfall, Agile, Scrum, V-Model and DevOps.
+Data flow diagram (DFD) is a diagram being used frequently in software design. It visually represents the flow of data throughout processes in a
+given system. DFD shows the kind of information that will be input to and output from processes as well as where the data will be stored.
+
+
+Q5 - What is Flow chart? Create a flowchart to make addition of two numbers?
+ANS-A flowchart is a diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, 
+improve and communicate often complex processes in clear, easy-to-understand diagrams. Flowcharts, sometimes spelled as flow charts, use rectangles,
+ ovals, diamonds and potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence.
+ They can range from simple, hand-drawn charts to comprehensive computer-drawn diagrams depicting multiple steps and routes.
+ If we consider all the various forms of flowcharts, they are one of the most common diagrams on the planet, used by both technical and non-technical 
+people in numerous fields. Flowcharts are sometimes called by more specialized names such as Process Flowchart, Process Map, Functional Flowchart,
+ Business Process Mapping, Business Process Modeling and Notation (BPMN),  or Process Flow Diagram (PFD). They are related to other popular diagrams,
+ such as Data Flow Diagrams (DFDs) and Unified Modeling Language (UML) Activity Diagrams.
+
+Q6. What is Use case Diagram? Create a use-case on bill payment on paytm.
+ANS-The Use Case Diagram is a UML Diagram where the each use-case specifies the behaviour expected from software from the perspective of end-user and 
+relation as well as provides brief overview for different components concerning interaction between use-case, actors and systems.
+ The Use-Case Diagram is used to prepare, present and understand functional requirements of the system. Use-Case Diagram specifies exact context
+ of the software being developed. It does not specifies order in which actions must be performed. Each use-case represents function of system which
+ is either process-automated or manual.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
